@@ -1,0 +1,28 @@
+---------------------------------------------------------
+Running indication of process of program  - ps1.as : 
+No errors occurred, output files were created as expected.
+---------------------------------------------------------
+Running indication of process of program  - ps2.as : 
+Error: The file is empty! The file  will not be compiled 
+---------------------------------------------------------
+Running indication of process of program  - ps3.as : 
+Error: in line 11 , sentence is not legal
+Error: in line 18 , sentence is not legal
+
+flag_preprocessor=0 , flag_firstpass=2 , flag_secondpass=0
+There are errors in the extended input file (.am), the assembler output files will not be generated
+---------------------------------------------------------
+Running indication of process of program  - ps4.as : 
+Error: in line 13 two commas in a row
+
+flag_preprocessor=0 , flag_firstpass=1 , flag_secondpass=0
+There are errors in the extended input file (.am), the assembler output files will not be generated
+---------------------------------------------------------
+Running indication of process of program  - ps5.as : 
+Error: in line 3 , label is too long
+
+flag_preprocessor=0 , flag_firstpass=1 , flag_secondpass=0
+There are errors in the extended input file (.am), the assembler output files will not be generated
+---------------------------------------------------------
+Running indication of process of program  - ps6.as : 
+Error: can not open file! The file  will not be compiled  
