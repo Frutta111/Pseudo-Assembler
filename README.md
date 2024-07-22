@@ -11,8 +11,9 @@ Input: .as files - Assembly-like source code. (the arguments are passed without 
 
 Output for each file:
 
-.am file (with no macros)
-.obj file, with the machine code
-.ext file, with details about the .extern labels, if any.
-.ent file, with details about the .entry labels, if any.
+- .am file (with no macros)
+- .obj file, with the machine code
+- .ext file, with details about the .extern labels, if any.
+- .ent file, with details about the .entry labels, if any.
+
 Score: 94%
